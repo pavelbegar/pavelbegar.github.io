@@ -57,7 +57,7 @@ li {
 .video-bg {
 margin:15px;
 padding:15px;
-  transition:0.07s;
+  transition: 10s;
 }
 
 input {
